@@ -2,6 +2,11 @@ team: Panther
 
 manager: Jora
 
+<<<<<<< HEAD
+=======
+coach: Teddy
+
+>>>>>>> add-coach
 members:
   - Sicho
   - Donney
